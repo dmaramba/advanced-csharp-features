@@ -53,7 +53,7 @@ LU1Theme2/
 | **Extension Methods**      | `Extension.cs`              | Adds methods to `string` type like `.GetLength()` |
 | **Type Conversion**        | `ConversionClass.cs`        | Demonstrates use of `Convert` and `TryParse` |
 | **Indexers**               | `IndexerLog.cs`             | Shows how indexers allow object array-like access |
-| **Enums**                  | `WeekDays.cs`               | Likely defines days of the week (for demo use) |
+| **Indexers**               | `WeekDays.cs`               | Shows how indexers allow object array-like access  |
 
 ---
 
